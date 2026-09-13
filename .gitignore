@@ -1,0 +1,12 @@
+# backend
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+
+# frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# 기타
+.DS_Store
+*.log
